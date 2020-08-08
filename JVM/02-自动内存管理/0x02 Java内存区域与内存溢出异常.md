@@ -64,6 +64,8 @@ JDK1.4新加入了NIO（New Input/Output）类，引入了一种基于通道与�
 
 ## HotSpot虚拟机对象探秘 
 
+![](https://raw.githubusercontent.com/yxcoder1997/PictureBed/master/img/类与实例.png)
+
 ### 对象的创建
 
 在Java语言中，创建对象通常利用new关键字，然而在虚拟机中，对象的创建是个什么过程呢？
